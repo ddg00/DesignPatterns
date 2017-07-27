@@ -1,0 +1,3 @@
+[submodule "hackerrank"]
+	path = hackerrank
+	url = git@github.com:ddg00/hackerrank.git
